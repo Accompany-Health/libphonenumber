@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 
-	libphonenumber "github.com/Accompany-Health/ah-libphonenumber"
 	logger "github.com/Accompany-Health/ah-logger"
 	stats "github.com/Accompany-Health/ah-stats"
+	libphonenumber "github.com/Accompany-Health/libphonenumber"
 )
 
 // Filter out non-number characters from input phone number string
