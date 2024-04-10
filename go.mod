@@ -1,4 +1,4 @@
-module github.com/Accompany-Health/ah-libphonenumber
+module github.com/Accompany-Health/libphonenumber
 
 go 1.22.1
 
