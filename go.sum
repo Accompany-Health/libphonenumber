@@ -6,8 +6,6 @@ github.com/Accompany-Health/ah-stats v0.1.2 h1:X/8jNf6cFkQDb+8MRpi6HBUF3sAs5gijf
 github.com/Accompany-Health/ah-stats v0.1.2/go.mod h1:4v2usorwaUwYtPvwE5RhYMKhSFRob1stpLjwlDt/L40=
 github.com/Accompany-Health/db-models v0.0.3 h1:vL4mdaD2/nQuPezOyRNaeUW5HHEVw8wN5E+tT/P4aso=
 github.com/Accompany-Health/db-models v0.0.3/go.mod h1:jrybtIetjD0JlGeguB2j1Nyx3BfW8NRcNWlrleeKFOs=
-github.com/Accompany-Health/phonenumbers v1.0.0 h1:3+KdBLrUSxHmYBUenvnNuYx1RfzywyrnYXd8vUNE93Y=
-github.com/Accompany-Health/phonenumbers v1.0.0/go.mod h1:Mk9aBU8H8nYQ8MR4kX3cDKpF/k0O0WZdnafQH/oGyYg=
 github.com/Accompany-Health/stardust v0.0.6 h1:iTm22GrvxFASdTnsCdeUmaK+JyZCVIcPej/BIPP5a0M=
 github.com/Accompany-Health/stardust v0.0.6/go.mod h1:LMDff73+SPIpw5LkT7lnWD8sBzt627E97JDpuoGAqEg=
 github.com/DataDog/datadog-go/v5 v5.6.0 h1:2oCLxjF/4htd55piM75baflj/KoE6VYS7alEUqFvRDw=

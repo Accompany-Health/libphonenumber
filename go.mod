@@ -2,6 +2,8 @@ module github.com/Accompany-Health/libphonenumber
 
 go 1.23
 
+toolchain go1.23.5
+
 require (
 	github.com/Accompany-Health/ah-context v0.0.13
 	github.com/Accompany-Health/ah-logger v0.1.4
@@ -51,3 +53,5 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	gorm.io/gorm v1.25.12 // indirect
 )
+
+replace github.com/Accompany-Health/phonenumbers v1.0.0 => ../phonenumbers
