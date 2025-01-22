@@ -8,7 +8,7 @@ require (
 	github.com/Accompany-Health/ah-context v0.0.13
 	github.com/Accompany-Health/ah-logger v0.1.4
 	github.com/Accompany-Health/ah-stats v0.1.2
-	github.com/Accompany-Health/phonenumbers v1.0.0
+	github.com/Accompany-Health/libphonenumber2 v1.0.0
 )
 
 require (
@@ -54,4 +54,4 @@ require (
 	gorm.io/gorm v1.25.12 // indirect
 )
 
-replace github.com/Accompany-Health/phonenumbers v1.0.0 => ../phonenumbers
+replace github.com/Accompany-Health/libphonenumber2 v1.0.0 => ../libphonenumber2
